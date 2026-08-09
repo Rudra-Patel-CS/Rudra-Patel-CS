@@ -4,11 +4,10 @@
 
 <br/>
 
+<a href="https://github.com/Rudra-Patel-CS"><img src="https://img.shields.io/badge/GitHub-131A22?style=flat-square&logo=github&logoColor=FFB020" alt="GitHub"/></a>
 <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-131A22?style=flat-square&logo=linkedin&logoColor=FFB020" alt="LinkedIn"/></a>
-<a href="LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-131A22?style=flat-square&logo=leetcode&logoColor=FFB020" alt="LeetCode"/></a>
 <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-131A22?style=flat-square&logo=x&logoColor=FFB020" alt="X"/></a>
-<a href="https://medium.com/@YOUR_MEDIUM_HANDLE"><img src="https://img.shields.io/badge/Medium-131A22?style=flat-square&logo=medium&logoColor=FFB020" alt="Medium"/></a>
-<a href="https://dev.to/YOUR_DEVTO_HANDLE"><img src="https://img.shields.io/badge/Dev.to-131A22?style=flat-square&logo=devdotto&logoColor=FFB020" alt="Dev.to"/></a>
+<a href="https://pinterest.com/YOUR_PINTEREST_HANDLE"><img src="https://img.shields.io/badge/Pinterest-131A22?style=flat-square&logo=pinterest&logoColor=FFB020" alt="Pinterest"/></a>
 <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-131A22?style=flat-square&logo=gmail&logoColor=FFB020" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Rudra-Patel-CS&style=flat-square&color=FFB020&label=VISITORS" alt="Profile views"/>
 
@@ -82,19 +81,6 @@ rudra@charusat:~$ git log --stat --all
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra-Patel-CS&bg_color=0B0F14&color=C8D4E0&title_color=FFB020&line=FFB020&point=FFD080&area=true&area_color=FFB020&border_color=1F2A36&custom_title=Commit%20Activity" alt="Activity graph"/>
-
-</div>
-
----
-
-```console
-rudra@charusat:~$ ./leetcode --stats
-```
-
-<div align="center">
-
-<!-- Replace YOUR_LEETCODE_USERNAME with your exact LeetCode handle -->
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=6" alt="LeetCode stats"/>
 
 </div>
 
