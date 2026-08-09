@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="6" viewBox="0 0 800 6" role="img" aria-label="divider">
+<defs><linearGradient id="sw" x1="0" x2="1">
+<stop offset="0%" stop-color="#FFB020" stop-opacity="0"/><stop offset="45%" stop-color="#FFB020" stop-opacity="1"/>
+<stop offset="55%" stop-color="#FFD080" stop-opacity="1"/><stop offset="100%" stop-color="#FFB020" stop-opacity="0"/>
+</linearGradient></defs>
+<rect y="2.5" width="800" height="1" fill="#1F2A36"/>
+<rect y="2" width="260" height="2" fill="url(#sw)"><animate attributeName="x" values="-260;800" dur="3.4s" repeatCount="indefinite"/></rect>
+</svg>
