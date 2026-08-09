@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>terminal.svg — preview</title>
+<style>
+  :root { color-scheme: light }
+  body{margin:0;min-height:100vh;display:flex;flex-direction:column;
+       align-items:center;justify-content:center;gap:22px;
+       background:#F6F8FA;color:#1F2A36;
+       font-family:'IBM Plex Sans',-apple-system,Segoe UI,sans-serif}
+  h1{font-size:15px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
+     color:#6B7C8F;margin:0}
+  .frame{border:1px solid #D8DEE4;border-radius:10px;padding:18px;background:#fff}
+  button{font:inherit;font-size:13px;padding:8px 18px;border-radius:6px;
+         border:1px solid #D8DEE4;background:#fff;cursor:pointer;color:#1F2A36}
+  button:hover{background:#F0F3F6}
+  p{font-size:12.5px;color:#6B7C8F;margin:0;max-width:640px;text-align:center;
+    line-height:1.6}
+</style>
+</head>
+<body>
+  <h1>terminal.svg — local preview</h1>
+  <div class="frame"><img id="t" src="terminal.svg" width="764" alt="terminal"/></div>
+  <button onclick="const i=document.getElementById('t');i.src='terminal.svg?'+Date.now()">Replay animation</button>
+  <p>The loop runs 13.2 seconds: four commands type out, each dumping its output,
+     then the prompt rests with a blinking cursor before repeating. This is exactly
+     how it will render on GitHub.</p>
+</body>
+</html>

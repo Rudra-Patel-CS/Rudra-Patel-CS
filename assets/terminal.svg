@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="547" viewBox="0 0 764 547" font-family="monospace" role="img" aria-label="Terminal introducing Rudra Patel">
+<defs>
+<style>
+.w{font-family:'IBM Plex Mono','SFMono-Regular','Consolas','Liberation Mono',monospace;font-size:13.5px;white-space:pre}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes rail{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+@keyframes p0{0%,3.03%{opacity:0}3.038%,100%{opacity:1}}.p0{animation:p0 13.2s steps(1) infinite}
+@keyframes t0{0%,3.03%{width:0}8.197%,100%{width:91.1px}}#r0{animation:t0 13.2s steps(11) infinite}
+@keyframes k0{0%,3.03%{opacity:0;transform:translateX(0)}3.038%{opacity:1;transform:translateX(0)}8.197%{opacity:1;transform:translateX(89.1px)}8.205%,100%{opacity:0;transform:translateX(89.1px)}}.k0{animation:k0 13.2s steps(11) infinite}
+@keyframes o1{0%,10.621%{opacity:0}11.53%,100%{opacity:1}}.o1{animation:o1 13.2s linear infinite}
+@keyframes o2{0%,11.303%{opacity:0}12.212%,100%{opacity:1}}.o2{animation:o2 13.2s linear infinite}
+@keyframes o3{0%,11.985%{opacity:0}12.894%,100%{opacity:1}}.o3{animation:o3 13.2s linear infinite}
+@keyframes p5{0%,17.364%{opacity:0}17.371%,100%{opacity:1}}.p5{animation:p5 13.2s steps(1) infinite}
+@keyframes t5{0%,17.364%{width:0}23.47%,100%{width:107.3px}}#r5{animation:t5 13.2s steps(13) infinite}
+@keyframes k5{0%,17.364%{opacity:0;transform:translateX(0)}17.371%{opacity:1;transform:translateX(0)}23.47%{opacity:1;transform:translateX(105.3px)}23.477%,100%{opacity:0;transform:translateX(105.3px)}}.k5{animation:k5 13.2s steps(13) infinite}
+@keyframes o6{0%,25.894%{opacity:0}26.803%,100%{opacity:1}}.o6{animation:o6 13.2s linear infinite}
+@keyframes o7{0%,26.576%{opacity:0}27.485%,100%{opacity:1}}.o7{animation:o7 13.2s linear infinite}
+@keyframes o8{0%,27.258%{opacity:0}28.167%,100%{opacity:1}}.o8{animation:o8 13.2s linear infinite}
+@keyframes p10{0%,32.636%{opacity:0}32.644%,100%{opacity:1}}.p10{animation:p10 13.2s steps(1) infinite}
+@keyframes t10{0%,32.636%{width:0}39.682%,100%{width:123.5px}}#r10{animation:t10 13.2s steps(15) infinite}
+@keyframes k10{0%,32.636%{opacity:0;transform:translateX(0)}32.644%{opacity:1;transform:translateX(0)}39.682%{opacity:1;transform:translateX(121.5px)}39.689%,100%{opacity:0;transform:translateX(121.5px)}}.k10{animation:k10 13.2s steps(15) infinite}
+@keyframes o11{0%,42.106%{opacity:0}43.015%,100%{opacity:1}}.o11{animation:o11 13.2s linear infinite}
+@keyframes o12{0%,42.788%{opacity:0}43.697%,100%{opacity:1}}.o12{animation:o12 13.2s linear infinite}
+@keyframes o13{0%,43.47%{opacity:0}44.379%,100%{opacity:1}}.o13{animation:o13 13.2s linear infinite}
+@keyframes o14{0%,44.152%{opacity:0}45.061%,100%{opacity:1}}.o14{animation:o14 13.2s linear infinite}
+@keyframes p16{0%,49.53%{opacity:0}49.538%,100%{opacity:1}}.p16{animation:p16 13.2s steps(1) infinite}
+@keyframes t16{0%,49.53%{width:0}59.864%,100%{width:180.2px}}#r16{animation:t16 13.2s steps(22) infinite}
+@keyframes k16{0%,49.53%{opacity:0;transform:translateX(0)}49.538%{opacity:1;transform:translateX(0)}59.864%{opacity:1;transform:translateX(178.2px)}59.871%,100%{opacity:0;transform:translateX(178.2px)}}.k16{animation:k16 13.2s steps(22) infinite}
+@keyframes o17{0%,62.288%{opacity:0}63.197%,100%{opacity:1}}.o17{animation:o17 13.2s linear infinite}
+@keyframes o18{0%,62.97%{opacity:0}63.879%,100%{opacity:1}}.o18{animation:o18 13.2s linear infinite}
+@keyframes o19{0%,63.652%{opacity:0}64.561%,100%{opacity:1}}.o19{animation:o19 13.2s linear infinite}
+@keyframes o20{0%,64.333%{opacity:0}65.242%,100%{opacity:1}}.o20{animation:o20 13.2s linear infinite}
+@keyframes fin{0%,73.5%{opacity:0}73.508%,100%{opacity:1}}.fin{animation:fin 13.2s steps(1) infinite}
+@keyframes fcur{0%,73.5%{opacity:0}73.508%,100%{opacity:1}}.fcur{animation:fcur 13.2s steps(1) infinite,blink 1.06s steps(1) infinite}
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="763" height="546.0" rx="7" fill="#0B0F14" stroke="#1F2A36"/>
+<path d="M0.5 7.5a7 7 0 0 1 7-7h749a7 7 0 0 1 7 7v31H0.5z" fill="#131A22"/>
+<line x1="0.5" y1="38" x2="763.5" y2="38" stroke="#1F2A36"/>
+<circle cx="26" cy="19.0" r="5.5" fill="#FF5F57"/><circle cx="43" cy="19.0" r="5.5" fill="#FEBC2E"/><circle cx="60" cy="19.0" r="5.5" fill="#28C840"/>
+<text class="w" x="382.0" y="20.0" fill="#6B7C8F" font-size="11.5" text-anchor="middle" dominant-baseline="middle">rudra@charusat: ~</text>
+<rect x="0.5" y="38" width="763" height="2" fill="#FFB020" opacity="0.85" style="transform-origin:0 0;transform-box:view-box;animation:rail 13.2s linear infinite"/>
+<g dominant-baseline="middle">
+<text class="w p0" x="26" y="70.0" opacity="0"><tspan fill="#3DD68C">rudra@charusat</tspan><tspan fill="#6B7C8F">:~$ </tspan><tspan fill="#C8D4E0" clip-path="url(#c0)">./whoami.sh</tspan></text>
+<clipPath id="c0"><rect id="r0" x="171.8" y="59.8" width="0" height="20.5"/></clipPath>
+<rect class="k0" x="171.8" y="62.5" width="8.1" height="15" fill="#FFB020" opacity="0"/>
+<text class="w o1" x="26" y="90.5" opacity="0"><tspan fill="#6B7C8F">  NAME ........... </tspan><tspan fill="#C8D4E0">Rudra Patel</tspan></text>
+<text class="w o2" x="26" y="111.0" opacity="0"><tspan fill="#6B7C8F">  ROLE ........... </tspan><tspan fill="#C8D4E0">B.Tech CSE  ·  Semester 5</tspan></text>
+<text class="w o3" x="26" y="131.5" opacity="0"><tspan fill="#6B7C8F">  INSTITUTE ...... </tspan><tspan fill="#C8D4E0">CSPIT, CHARUSAT</tspan></text>
+<text class="w p5" x="26" y="172.5" opacity="0"><tspan fill="#3DD68C">rudra@charusat</tspan><tspan fill="#6B7C8F">:~$ </tspan><tspan fill="#C8D4E0" clip-path="url(#c5)">cat focus.txt</tspan></text>
+<clipPath id="c5"><rect id="r5" x="171.8" y="162.2" width="0" height="20.5"/></clipPath>
+<rect class="k5" x="171.8" y="165.0" width="8.1" height="15" fill="#FFB020" opacity="0"/>
+<text class="w o6" x="26" y="193.0" opacity="0"><tspan fill="#C8D4E0">  Signature-based detection catches yesterday's attack.</tspan></text>
+<text class="w o7" x="26" y="213.5" opacity="0"><tspan fill="#C8D4E0">  I'm training models to catch tomorrow's.</tspan></text>
+<text class="w o8" x="26" y="234.0" opacity="0"><tspan fill="#FFB020">  ML x Security  —  anomaly detection · automation</tspan></text>
+<text class="w p10" x="26" y="275.0" opacity="0"><tspan fill="#3DD68C">rudra@charusat</tspan><tspan fill="#6B7C8F">:~$ </tspan><tspan fill="#C8D4E0" clip-path="url(#c10)">ls -la ./skills</tspan></text>
+<clipPath id="c10"><rect id="r10" x="171.8" y="264.8" width="0" height="20.5"/></clipPath>
+<rect class="k10" x="171.8" y="267.5" width="8.1" height="15" fill="#FFB020" opacity="0"/>
+<text class="w o11" x="26" y="295.5" opacity="0"><tspan fill="#6B7C8F">  drwxr-xr-x  </tspan><tspan fill="#FFB020">languages/  </tspan><tspan fill="#C8D4E0">C++  Java  Python  JavaScript  Bash</tspan></text>
+<text class="w o12" x="26" y="316.0" opacity="0"><tspan fill="#6B7C8F">  drwxr-xr-x  </tspan><tspan fill="#FFB020">security/   </tspan><tspan fill="#C8D4E0">Linux  Wireshark  Burp  Nmap  Metasploit</tspan></text>
+<text class="w o13" x="26" y="336.5" opacity="0"><tspan fill="#6B7C8F">  drwxr-xr-x  </tspan><tspan fill="#FFB020">ml-data/    </tspan><tspan fill="#C8D4E0">NumPy  pandas  scikit-learn  Jupyter</tspan></text>
+<text class="w o14" x="26" y="357.0" opacity="0"><tspan fill="#6B7C8F">  drwxr-xr-x  </tspan><tspan fill="#FFB020">web/        </tspan><tspan fill="#C8D4E0">HTML  CSS  Node.js  Docker  Git</tspan></text>
+<text class="w p16" x="26" y="398.0" opacity="0"><tspan fill="#3DD68C">rudra@charusat</tspan><tspan fill="#6B7C8F">:~$ </tspan><tspan fill="#C8D4E0" clip-path="url(#c16)">systemctl status rudra</tspan></text>
+<clipPath id="c16"><rect id="r16" x="171.8" y="387.8" width="0" height="20.5"/></clipPath>
+<rect class="k16" x="171.8" y="390.5" width="8.1" height="15" fill="#FFB020" opacity="0"/>
+<text class="w o17" x="26" y="418.5" opacity="0"><tspan fill="#3DD68C">  ● </tspan><tspan fill="#C8D4E0">rudra.service</tspan><tspan fill="#6B7C8F">  —  builds things that don't break</tspan></text>
+<text class="w o18" x="26" y="439.0" opacity="0"><tspan fill="#6B7C8F">     Active: </tspan><tspan fill="#3DD68C">active (running)</tspan></text>
+<text class="w o19" x="26" y="459.5" opacity="0"><tspan fill="#6B7C8F">     Tasks:  </tspan><tspan fill="#C8D4E0">DSA reps · security labs · ML experiments</tspan></text>
+<text class="w o20" x="26" y="480.0" opacity="0"><tspan fill="#6B7C8F">     Note:   </tspan><tspan fill="#C8D4E0">once started, does not stop until finished</tspan></text>
+<text class="w fin" x="26" y="521.0" opacity="0"><tspan fill="#3DD68C">rudra@charusat</tspan><tspan fill="#6B7C8F">:~$ </tspan></text>
+<rect class="fcur" x="171.8" y="513.5" width="8.1" height="15" fill="#FFB020" opacity="0"/>
+</g>
+</svg>
