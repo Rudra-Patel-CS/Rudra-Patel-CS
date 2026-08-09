@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="262" viewBox="0 0 764 262" role="img" aria-label="Tech stack loading">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace}
+.hd{font-size:12px;fill:#FFB020;letter-spacing:2.2px}
+.lab{font-size:12.5px;fill:#6B7C8F} .ch{font-size:11.5px;fill:#C8D4E0;text-anchor:middle}
+.bar,.chip{transform-box:fill-box} .bar{transform-origin:0% 50%} .chip{transform-origin:50% 50%}
+@keyframes fill{0%{transform:scaleX(0)}11.111%{transform:scaleX(1)}92.222%{transform:scaleX(1)}98.889%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes pop{0%{opacity:0;transform:translateY(7px) scale(.94)}4.667%{opacity:1;transform:none}91.111%{opacity:1;transform:none}98.333%{opacity:0;transform:translateY(-4px)}100%{opacity:0}}
+.b0{animation:fill 9.0s linear infinite;animation-delay:0.35s}
+.c0{animation:pop 9.0s ease-out infinite;animation-delay:0.55s}
+.c1{animation:pop 9.0s ease-out infinite;animation-delay:0.605s}
+.c2{animation:pop 9.0s ease-out infinite;animation-delay:0.66s}
+.c3{animation:pop 9.0s ease-out infinite;animation-delay:0.715s}
+.c4{animation:pop 9.0s ease-out infinite;animation-delay:0.77s}
+.b1{animation:fill 9.0s linear infinite;animation-delay:0.63s}
+.c5{animation:pop 9.0s ease-out infinite;animation-delay:1.105s}
+.c6{animation:pop 9.0s ease-out infinite;animation-delay:1.16s}
+.c7{animation:pop 9.0s ease-out infinite;animation-delay:1.215s}
+.c8{animation:pop 9.0s ease-out infinite;animation-delay:1.27s}
+.c9{animation:pop 9.0s ease-out infinite;animation-delay:1.325s}
+.b2{animation:fill 9.0s linear infinite;animation-delay:0.91s}
+.c10{animation:pop 9.0s ease-out infinite;animation-delay:1.66s}
+.c11{animation:pop 9.0s ease-out infinite;animation-delay:1.715s}
+.c12{animation:pop 9.0s ease-out infinite;animation-delay:1.77s}
+.c13{animation:pop 9.0s ease-out infinite;animation-delay:1.825s}
+.b3{animation:fill 9.0s linear infinite;animation-delay:1.19s}
+.c14{animation:pop 9.0s ease-out infinite;animation-delay:2.16s}
+.c15{animation:pop 9.0s ease-out infinite;animation-delay:2.215s}
+.c16{animation:pop 9.0s ease-out infinite;animation-delay:2.27s}
+.c17{animation:pop 9.0s ease-out infinite;animation-delay:2.325s}
+.c18{animation:pop 9.0s ease-out infinite;animation-delay:2.38s}
+</style>
+<rect width="764" height="262" rx="8" fill="#0B0F14" stroke="#1F2A36"/>
+<text x="30" y="30" class="hd">[ LOADING MODULES ]</text>
+<line x1="22" y1="42" x2="742" y2="42" stroke="#1F2A36"/>
+<text x="30" y="74" class="lab">languages/</text>
+<rect x="146" y="66" width="96" height="4" rx="2" fill="#1F2A36"/>
+<rect class="bar b0" x="146" y="66" width="96" height="4" rx="2" fill="#FFB020"/>
+<g class="chip c0"><rect x="262" y="54" width="42" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="283" y="71" class="ch">C++</text></g>
+<g class="chip c1"><rect x="312.5" y="54" width="50" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="338" y="71" class="ch">Java</text></g>
+<g class="chip c2"><rect x="370.5" y="54" width="65" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="403" y="71" class="ch">Python</text></g>
+<g class="chip c3"><rect x="443.5" y="54" width="95" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="491" y="71" class="ch">JavaScript</text></g>
+<g class="chip c4"><rect x="546.5" y="54" width="50" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="572" y="71" class="ch">Bash</text></g>
+<text x="30" y="122" class="lab">security/</text>
+<rect x="146" y="114" width="96" height="4" rx="2" fill="#1F2A36"/>
+<rect class="bar b1" x="146" y="114" width="96" height="4" rx="2" fill="#FFB020"/>
+<g class="chip c5"><rect x="262" y="102" width="58" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="291" y="119" class="ch">Linux</text></g>
+<g class="chip c6"><rect x="327.5" y="102" width="88" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="371" y="119" class="ch">Wireshark</text></g>
+<g class="chip c7"><rect x="423.0" y="102" width="95" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="470" y="119" class="ch">Burp Suite</text></g>
+<g class="chip c8"><rect x="526.0" y="102" width="50" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="551" y="119" class="ch">Nmap</text></g>
+<g class="chip c9"><rect x="584.0" y="102" width="95" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="632" y="119" class="ch">Metasploit</text></g>
+<text x="30" y="170" class="lab">ml . data/</text>
+<rect x="146" y="162" width="96" height="4" rx="2" fill="#1F2A36"/>
+<rect class="bar b2" x="146" y="162" width="96" height="4" rx="2" fill="#FFB020"/>
+<g class="chip c10"><rect x="262" y="150" width="58" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="291" y="167" class="ch">NumPy</text></g>
+<g class="chip c11"><rect x="327.5" y="150" width="65" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="360" y="167" class="ch">pandas</text></g>
+<g class="chip c12"><rect x="400.5" y="150" width="110" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="456" y="167" class="ch">scikit-learn</text></g>
+<g class="chip c13"><rect x="518.5" y="150" width="72" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="555" y="167" class="ch">Jupyter</text></g>
+<text x="30" y="218" class="lab">web . tools/</text>
+<rect x="146" y="210" width="96" height="4" rx="2" fill="#1F2A36"/>
+<rect class="bar b3" x="146" y="210" width="96" height="4" rx="2" fill="#FFB020"/>
+<g class="chip c14"><rect x="262" y="198" width="50" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="287" y="215" class="ch">HTML</text></g>
+<g class="chip c15"><rect x="320.0" y="198" width="42" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="341" y="215" class="ch">CSS</text></g>
+<g class="chip c16"><rect x="370.5" y="198" width="72" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="407" y="215" class="ch">Node.js</text></g>
+<g class="chip c17"><rect x="451.0" y="198" width="65" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="484" y="215" class="ch">Docker</text></g>
+<g class="chip c18"><rect x="524.0" y="198" width="42" height="26" rx="5" fill="#131A22" stroke="#1F2A36"/><text x="545" y="215" class="ch">Git</text></g>
+</svg>
