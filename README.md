@@ -165,7 +165,9 @@ rudra@charusat:~$ git log --stat --all
 -->
 
 <!-- Contribution streak -->
-<img src="https://streak-stats.demolab.com?user=Rudra-Patel-CS&background=0B0F14&border=1F2A36&stroke=1F2A36&ring=FFB020&fire=FF4D5E&currStreakNum=C8D4E0&sideNums=C8D4E0&currStreakLabel=FFB020&sideLabels=6B7C8F&dates=6B7C8F" alt="GitHub contribution streak">
+<a href="https://github.com/Rudra-Patel-CS">
+  <img src="./profile/streak.svg" alt="GitHub contribution streak">
+</a>
 
 <br><br>
 
